@@ -1,1 +1,0 @@
-to remove an element from an Set while looping over, We should use iterator.remove(), Concurrent modification exception
