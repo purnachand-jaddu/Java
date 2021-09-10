@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dac6f3e-ba54-47e4-9b76-264f7f690b23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TooltipFrameWork/ListInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TooltipFrameWork/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TooltipFrameWork/TruncatedTootip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/ReverseUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/DescendingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/FraudulentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/GeometricTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/JavaInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/LongestNonDecreasingSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MyFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ShutdownHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ThreadPoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/SherlockAndAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/TestObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/TodoFlowsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/ConvertTreeToDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/CutOffRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/FindKthPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/FindLowHighIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/FiveStarSellers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/IsBinaryTreeASearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/ItemsInContainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/LargeItemAssociation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/LongestPalindromicSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/MostCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/MusicPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/MusicPairsFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfSetBitsInANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfWaysToMakeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/PrintAllBraceCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/ReverseWordsInSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/RoboticsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/SearchRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/ShoppingPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/SlowKeyPress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/StringSegmentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/SubstringsOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/SumOfTwoEqualToValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/ThrottlingGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/TopKFrequentlyMentionedStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/UtilizationChecks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/amazon/learnings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/arcesium/MaxDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/arcesium/MutualSubstitutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/arcesium/PaintSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/arcesium/SuppandiStockPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest441/FindAmir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest441/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest668/ArrayCancellation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest668/PermutationForgery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest670/MaximumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest674/FloorNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest674/IncreaseAndCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/contest674/SymmetricMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/csv/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/csv/MainClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/ds/heap/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/ds/heap/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/ds/trie/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/ds/trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/ds/trie/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/AnagramsForString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/GarbageCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/LargestRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/LongestCommonSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/MaximumXor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/NoPolymorphismForFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/OpenTheLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/RotatedIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/stringalgo/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/xmlparsing/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/xmlparsing/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/xmlparsing/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/xmlparsing/MyHandler.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfWaysToMakeChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/PrintAllBraceCombinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/TodoFlowsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/RoboticsChallenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/SearchRotatedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/ShoppingPatterns.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="81" column="39" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/SlowKeyPress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/SumOfTwoEqualToValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/ThrottlingGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/TopKFrequentlyMentionedStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/UtilizationChecks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mentor/training/LongestNonDecreasingSubSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38284">
+              <caret line="2329" column="28" selection-start-line="2329" selection-start-column="28" selection-end-line="2329" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+              <folding>
+                <element signature="e#226343#226344#0" expanded="true" />
+                <element signature="e#226416#226417#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/util/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22236">
+              <caret line="1362" column="32" selection-start-line="1362" selection-start-column="32" selection-end-line="1362" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gbc.fill</find>
+      <find>static</find>
+      <find>add(table</find>
+      <find>add(table)</find>
+      <find>system.out</find>
+      <find>fileT</find>
+      <find>new FileW</find>
+      <find>fileReader</find>
+      <find>FileTo</find>
+      <find>getNode</find>
+      <find>Time</find>
+      <find>Enumerat</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\pjaddu\Desktop\Learnings\java_training\src\com\mentor\training\questions</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/ConvertTreeToDoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/NumberOfSetBitsInANumber.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfSetBitsInANumber.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/LongestPalindromicSubSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/MusicPairs.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/MusicPairsFinal.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/ItemsInContainers.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/LargeItemAssociation.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/FiveStarSellers.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/UtilizationChecks.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/UtilizationChecks.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/TopKFreqnetlyMentionedStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/TopKFrequentlyMentionedStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/SubstringsOfSizeK.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfIslands.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/MostCommonWord.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/RoboticsChallenge.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/ShoppingPatterns.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/CutOffRank.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/ThrottlingGateway.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/arcesium/PaintSquare.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/arcesium/MaxDiscount.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/arcesium/SuppandiStockPrice.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/contest670/MaximumProduct.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/arcesium/MutualSubstitutions.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/SherlockAndAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/NoPolymorphsimForFields.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/NoPolymorphismForFields.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/GarbageCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/GeometricTriplets.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/FradulentActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/FraudulentActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/JavaInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/DescendingComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/MaximumXor.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/CastleOnGrid.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/LongestCommonSubSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/LargestRectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/AnagramsForString.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/ds/trie/TrieLeetCode.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/Trie.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/OpenTheLock.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/questions/RotatedIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/ds/heap/MyHeap.java" />
+        <option value="$PROJECT_DIR$/src/TooltipFrameWork/TruncatedTootip.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/FindMissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/amazon/SlowKeyPress.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/LongestNonDecreasingSubSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/mentor/training/TodoFlowsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-115" />
+    <option name="y" value="178" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627014474328" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mentor.training" />
+      <recent name="com.mentor.training.DesignPatterns.Creational.AbstractFactory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjaddu\Desktop\java_training\src\TooltipFrameWork" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TodoFlowsTest">
+    <configuration name="FailFastIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mentor.training.FailFastIterator" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mentor.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestNonDecreasingSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mentor.training.LongestNonDecreasingSubSequence" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mentor.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mentor.training.ds.heap.MyHeap" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mentor.training.ds.heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotatedIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mentor.training.questions.RotatedIndex" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mentor.training.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoFlowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mentor.training.TodoFlowsTest" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mentor.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RotatedIndex" />
+      <item itemvalue="Application.MyHeap" />
+      <item itemvalue="Application.FailFastIterator" />
+      <item itemvalue="Application.LongestNonDecreasingSubSequence" />
+      <item itemvalue="Application.TodoFlowsTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TodoFlowsTest" />
+        <item itemvalue="Application.LongestNonDecreasingSubSequence" />
+        <item itemvalue="Application.FailFastIterator" />
+        <item itemvalue="Application.MyHeap" />
+        <item itemvalue="Application.RotatedIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dac6f3e-ba54-47e4-9b76-264f7f690b23" name="Default Changelist" comment="" />
+      <created>1558156170483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558156170483</updated>
+      <workItem from="1569583044497" duration="1019000" />
+      <workItem from="1571392902639" duration="715000" />
+      <workItem from="1572512128065" duration="2938000" />
+      <workItem from="1572515923263" duration="1066000" />
+      <workItem from="1573031274256" duration="218000" />
+      <workItem from="1575542210654" duration="158000" />
+      <workItem from="1580478883209" duration="209000" />
+      <workItem from="1582117843487" duration="1010000" />
+      <workItem from="1582120923323" duration="748000" />
+      <workItem from="1583141297606" duration="1180000" />
+      <workItem from="1590056243994" duration="838000" />
+      <workItem from="1591694980755" duration="3927000" />
+      <workItem from="1598375464778" duration="4422000" />
+      <workItem from="1598380116688" duration="1680000" />
+      <workItem from="1598847376860" duration="1435000" />
+      <workItem from="1598974117060" duration="4646000" />
+      <workItem from="1598984698753" duration="4932000" />
+      <workItem from="1599162406704" duration="2529000" />
+      <workItem from="1599326904519" duration="8455000" />
+      <workItem from="1599459380594" duration="1055000" />
+      <workItem from="1599905599408" duration="20636000" />
+      <workItem from="1600799545278" duration="737000" />
+      <workItem from="1600939167376" duration="2533000" />
+      <workItem from="1601013311392" duration="917000" />
+      <workItem from="1601625133138" duration="7845000" />
+      <workItem from="1602259094202" duration="24377000" />
+      <workItem from="1602485158662" duration="1205000" />
+      <workItem from="1604120945209" duration="28627000" />
+      <workItem from="1604326096177" duration="5762000" />
+      <workItem from="1604497080919" duration="7627000" />
+      <workItem from="1604646730002" duration="41000" />
+      <workItem from="1606542617077" duration="7369000" />
+      <workItem from="1613801560269" duration="10055000" />
+      <workItem from="1614018082609" duration="787000" />
+      <workItem from="1614449209790" duration="3910000" />
+      <workItem from="1614623481266" duration="1580000" />
+      <workItem from="1614793392018" duration="2843000" />
+      <workItem from="1614845485840" duration="248000" />
+      <workItem from="1614873249203" duration="1399000" />
+      <workItem from="1615118147655" duration="360000" />
+      <workItem from="1615650452268" duration="609000" />
+      <workItem from="1624635266542" duration="1031000" />
+      <workItem from="1625069466091" duration="6403000" />
+      <workItem from="1625498662495" duration="4825000" />
+      <workItem from="1626961581515" duration="1117000" />
+      <workItem from="1627049736946" duration="1306000" />
+      <workItem from="1628522497736" duration="3384000" />
+      <workItem from="1628698337536" duration="5175000" />
+      <workItem from="1628788555051" duration="3562000" />
+      <workItem from="1629018784323" duration="983000" />
+      <workItem from="1629095379969" duration="13590000" />
+      <workItem from="1629737103112" duration="1716000" />
+      <workItem from="1629901006117" duration="4120000" />
+      <workItem from="1630608278474" duration="751000" />
+      <workItem from="1630654676131" duration="594000" />
+      <workItem from="1630656086508" duration="3133000" />
+      <workItem from="1630691927087" duration="2154000" />
+    </task>
+    <task id="LOCAL-00001" summary="30-05-2019">
+      <created>1559219505062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559219505063</updated>
+    </task>
+    <task id="LOCAL-00002" summary="02-06-2019 : UI-DB interaction working model">
+      <created>1559489947778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559489947778</updated>
+    </task>
+    <task id="LOCAL-00003" summary="02-06-2019 : CRLF??">
+      <created>1559490493732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559490493732</updated>
+    </task>
+    <task id="LOCAL-00004" summary="02-06-2019 : Improvements">
+      <created>1559491296686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559491296686</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Factory pattern">
+      <created>1564035113190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564035113190</updated>
+    </task>
+    <task id="LOCAL-00006" summary="AbstractFactoryPattern">
+      <created>1564389129628</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564389129628</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Kola">
+      <created>1569583455995</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569583455995</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest - 2019.08.01 at 11h 49m 38s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2019.08.01 at 11h 50m 10s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2019.08.01 at 11h 50m 37s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2019.08.01 at 11h 51m 14s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2019.08.01 at 11h 51m 25s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2019.08.01 at 11h 51m 41s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2020.02.19 at 18h 43m 24s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2020.02.19 at 18h 47m 01s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2020.05.21 at 15h 48m 56s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2020.05.21 at 15h 50m 31s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="226491000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-115" y="178" width="1940" height="1100" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" order="0" weight="0.65167785" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.44111112" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.35333332" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32555556" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.0658858" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flutter Performance" order="10" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Project" order="0" visible="true" weight="0.2932886" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.25036603" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info active="true" anchor="bottom" id="Debug" order="2" visible="true" weight="0.4978038" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32555556" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32777777" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Flutter Performance" order="10" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="30-05-2019" />
+    <MESSAGE value="02-06-2019 : UI-DB interaction working model" />
+    <MESSAGE value="02-06-2019 : CRLF??" />
+    <MESSAGE value="02-06-2019 : Improvements" />
+    <MESSAGE value="Factory pattern" />
+    <MESSAGE value="AbstractFactoryPattern" />
+    <MESSAGE value="Kola" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kola" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ClimbingLeaderBoard.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/CodingPractise/QueensAttackII.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/InteractWithDB.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/CodingPractise/BiggerIsGreater.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/View.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/CodingPractise/SherlockAndValidString.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/CodingPractise/SherlockAndValidString.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/MapTesting.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/ReverseUsingRecursion.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfWaysToMakeChange.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="wrappers.indexOf(leftWrapper) == 0 &amp;&amp; wrappers.indexOf(rightWrapper)==3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/PrintAllBraceCombinations.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/FiveStarSellers.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/MostCommonWord.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/LowestCommonAncestor.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/SlowKeyPress.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/amazon/ThrottlingGateway.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/SherlockAndAnagrams.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/questions/MaximumXor.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/questions/MaximumXor.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/questions/MaximumXor.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mentor/training/questions/LargestRectangle.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/lang/StackOverflowError.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/lang/StackOverflowError.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$MainClass.ic" NAME="MainClass Coverage Results" MODIFIED="1598376034186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mentor.training.csv.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>wrappers.indexOf(leftWrapper) == 0 &amp;&amp; wrappers.indexOf(rightWrapper)==3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wrappers.indexOf(leftWrapper) == 0 &amp;&amp;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==7</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sb.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>people</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentParent</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>first</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>findRating(queue)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>peekedObject</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>queue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inorderCapture</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ShutdownHook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/ds/heap/MyHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/csv/MainClass2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/csv/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/arcesium/MutualSubstitutions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/arcesium/PaintSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/arcesium/SuppandiStockPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/FraudulentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/UISample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/StreamObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/StreamApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/StaticExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/SoapElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/RangeOfAVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/NodeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/FailFastIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="73" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/EagerInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/DescendingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/DateAndTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/CreateUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/CutOffRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/FindLowHighIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/FindMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/FiveStarSellers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/IsBinaryTreeASearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/ItemsInContainers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/LongestPalindromicSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/MostCommonWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/MusicPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/MusicPairsFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfSetBitsInANumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/NumberOfWaysToMakeChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/PrintAllBraceCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/RoboticsChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/SearchRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/ShoppingPatterns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="81" column="39" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/SlowKeyPress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/SumOfTwoEqualToValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/ThrottlingGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/TopKFrequentlyMentionedStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/amazon/UtilizationChecks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/LongestNonDecreasingSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38284">
+          <caret line="2329" column="28" selection-start-line="2329" selection-start-column="28" selection-end-line="2329" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+          <folding>
+            <element signature="e#226343#226344#0" expanded="true" />
+            <element signature="e#226416#226417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apps/Java/Java64/jdk1.8.0_172/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22236">
+          <caret line="1362" column="32" selection-start-line="1362" selection-start-column="32" selection-end-line="1362" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mentor/training/TodoFlowsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.opencsv:opencsv:5.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8_66</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.bluecatcode.junit:junit-4.10-extended:1.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
