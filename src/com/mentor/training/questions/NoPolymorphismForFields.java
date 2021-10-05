@@ -8,6 +8,9 @@ public class NoPolymorphismForFields {
 
         B b = new B();
         System.out.println(b.a);
+
+        A c = new B();
+        System.out.println(c.a);
     }
 }
 

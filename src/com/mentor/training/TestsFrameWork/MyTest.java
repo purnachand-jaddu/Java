@@ -1,6 +1,5 @@
 package com.mentor.training.TestsFrameWork;
 
-
 import junit.framework.Test;
 import junit.framework.TestSuite;
 
