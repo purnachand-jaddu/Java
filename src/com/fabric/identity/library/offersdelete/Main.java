@@ -1,6 +1,6 @@
-package com.test.library.offersdelete;
+package com.fabric.identity.library.offersdelete;
 
-import com.test.library.UtilService;
+import com.fabric.identity.library.UtilService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

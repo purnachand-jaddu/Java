@@ -1,7 +1,7 @@
-package com.test.library.search;
+package com.fabric.identity.library.search;
 
-import com.test.library.UtilService;
-import inc.fabric.repository.models.dtos.SubscriptionStatus;
+import com.fabric.identity.library.UtilService;
+import com.fabric.identity.repository.models.dtos.SubscriptionStatus;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

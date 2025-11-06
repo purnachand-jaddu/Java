@@ -176,10 +176,6 @@
                 <configuration>
                     <source>11</source>
                     <target>11</target>
-                    <excludes>
-                        <!-- Exclude files with proprietary dependencies (inc.fabric.repository) -->
-                        <exclude>**/com/test/library/**</exclude>
-                    </excludes>
                 </configuration>
             </plugin>
 

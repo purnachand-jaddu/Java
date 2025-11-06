@@ -1,14 +1,14 @@
-package com.test.library.tenant1;
+package com.fabric.identity.library.tenant1;
 
-import com.test.library.UtilService;
-import inc.fabric.repository.ITenantConfigurationRepository;
-import inc.fabric.repository.models.dtos.EventData;
-import inc.fabric.repository.models.dtos.SubscriptionConfiguration;
-import inc.fabric.repository.models.dtos.SubscriptionDetail;
-import inc.fabric.repository.models.dtos.SubscriptionStatus;
-import inc.fabric.repository.models.dtos.TenantConfiguration;
-import inc.fabric.repository.models.dtos.auth.AuthorizationDetail;
-import inc.fabric.repository.models.dtos.auth.AuthorizationType;
+import com.fabric.identity.library.UtilService;
+import com.fabric.identity.repository.ITenantConfigurationRepository;
+import com.fabric.identity.repository.models.dtos.EventData;
+import com.fabric.identity.repository.models.dtos.SubscriptionConfiguration;
+import com.fabric.identity.repository.models.dtos.SubscriptionDetail;
+import com.fabric.identity.repository.models.dtos.SubscriptionStatus;
+import com.fabric.identity.repository.models.dtos.TenantConfiguration;
+import com.fabric.identity.repository.models.dtos.auth.AuthorizationDetail;
+import com.fabric.identity.repository.models.dtos.auth.AuthorizationType;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

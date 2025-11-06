@@ -1,22 +1,22 @@
-package com.test.library;
+package com.fabric.identity.library;
 
-import inc.fabric.repository.DefaultTenantConfigurationRepository;
-import inc.fabric.repository.IProductConfigurationRepository;
-import inc.fabric.repository.ISubscriptionConfigurationRepository;
-import inc.fabric.repository.models.daos.SubscriptionDataModel;
-import inc.fabric.repository.models.dtos.EventData;
-import inc.fabric.repository.models.dtos.SubscriptionConfiguration;
-import inc.fabric.repository.models.dtos.SubscriptionDetail;
-import inc.fabric.repository.models.dtos.SubscriptionInfo;
-import inc.fabric.repository.models.dtos.SubscriptionStatus;
-import inc.fabric.repository.models.dtos.TenantConfiguration;
-import inc.fabric.repository.models.dtos.auth.AuthorizationDetail;
-import inc.fabric.repository.models.dtos.auth.AuthorizationType;
-import inc.fabric.security.ISecurityStrategy;
-import inc.fabric.security.SimpleSecurityStrategy;
-import inc.fabric.security.keystrategies.IKeyStrategy;
-import inc.fabric.security.keystrategies.RoundRobinStrategy;
-import inc.fabric.security.utils.Utils;
+import com.fabric.identity.repository.DefaultTenantConfigurationRepository;
+import com.fabric.identity.repository.IProductConfigurationRepository;
+import com.fabric.identity.repository.ISubscriptionConfigurationRepository;
+import com.fabric.identity.repository.models.daos.SubscriptionDataModel;
+import com.fabric.identity.repository.models.dtos.EventData;
+import com.fabric.identity.repository.models.dtos.SubscriptionConfiguration;
+import com.fabric.identity.repository.models.dtos.SubscriptionDetail;
+import com.fabric.identity.repository.models.dtos.SubscriptionInfo;
+import com.fabric.identity.repository.models.dtos.SubscriptionStatus;
+import com.fabric.identity.repository.models.dtos.TenantConfiguration;
+import com.fabric.identity.repository.models.dtos.auth.AuthorizationDetail;
+import com.fabric.identity.repository.models.dtos.auth.AuthorizationType;
+import com.fabric.identity.security.ISecurityStrategy;
+import com.fabric.identity.security.SimpleSecurityStrategy;
+import com.fabric.identity.security.keystrategies.IKeyStrategy;
+import com.fabric.identity.security.keystrategies.RoundRobinStrategy;
+import com.fabric.identity.security.utils.Utils;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -137,14 +137,12 @@ public class UtilService {
 
   public void deleteAllSubscriptions(String tenantId) {
     DynamoDbTable<SubscriptionDataModel> table = enhancedClient.table("SubscriptionConfigurations", TableSchema.fromBean(SubscriptionDataModel.class));
-    List<TenantConfiguration> tenantConfigurations =
+    TenantConfiguration tenantConfiguration =
         tenantConfigurationRepository.getTenantConfigurations(tenantId);
-    for (TenantConfiguration tenantConfiguration : tenantConfigurations) {
-      for (SubscriptionInfo subscription : tenantConfiguration.getSubscriptions()) {
+    for (SubscriptionInfo subscription : tenantConfiguration.getSubscriptions()) {
 //        tenantConfigurationRepository.deleteSubscription(
 //            tenantId, subscription.getSubscriptionId());
         table.deleteItem(Key.builder().partitionValue(subscription.getSubscriptionId()).sortValue("TENANT").build());
-      }
     }
   }
 
