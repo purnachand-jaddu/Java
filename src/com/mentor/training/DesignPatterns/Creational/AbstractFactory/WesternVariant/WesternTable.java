@@ -1,6 +1,6 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory.WesternVariant;
+package com.mentor.training.designpatterns.creational.abstractfactory.westernvariant;
 
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Table;
+import com.mentor.training.designpatterns.creational.abstractfactory.Table;
 
 public class WesternTable implements Table
 {

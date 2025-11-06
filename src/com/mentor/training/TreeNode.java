@@ -1,7 +1,5 @@
 package com.mentor.training;
 
-import sun.reflect.generics.tree.Tree;
-
 public class TreeNode {
 
     private TreeNode leftNode;

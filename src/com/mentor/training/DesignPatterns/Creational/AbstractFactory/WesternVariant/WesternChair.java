@@ -1,6 +1,6 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory.WesternVariant;
+package com.mentor.training.designpatterns.creational.abstractfactory.westernvariant;
 
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Chair;
+import com.mentor.training.designpatterns.creational.abstractfactory.Chair;
 
 public class WesternChair implements Chair
 {

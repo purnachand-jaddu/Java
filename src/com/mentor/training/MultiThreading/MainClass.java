@@ -1,4 +1,4 @@
-package com.mentor.training.MultiThreading;
+package com.mentor.training.multithreading;
 
 import java.io.IOException;
 

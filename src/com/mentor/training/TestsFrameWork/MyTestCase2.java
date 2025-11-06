@@ -1,4 +1,4 @@
-package com.mentor.training.TestsFrameWork;
+package com.mentor.training.testsframework;
 
 import junit.framework.TestCase;
 

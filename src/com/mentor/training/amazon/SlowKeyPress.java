@@ -1,10 +1,27 @@
 package com.mentor.training.amazon;
 
-import javafx.util.Pair;
-
 import java.util.*;
 
 public class SlowKeyPress {
+
+    // Simple Pair class to replace javafx.util.Pair
+    static class Pair<K, V> {
+        private K key;
+        private V value;
+
+        public Pair(K key, V value) {
+            this.key = key;
+            this.value = value;
+        }
+
+        public K getKey() {
+            return key;
+        }
+
+        public V getValue() {
+            return value;
+        }
+    }
 
     public static void main(String[] args) {
         System.out.println(getSlowestKeyPressed(4, Arrays.asList(

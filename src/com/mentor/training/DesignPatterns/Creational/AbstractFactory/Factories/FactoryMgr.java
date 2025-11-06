@@ -1,4 +1,4 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory.Factories;
+package com.mentor.training.designpatterns.creational.abstractfactory.factories;
 
 public class FactoryMgr
 {

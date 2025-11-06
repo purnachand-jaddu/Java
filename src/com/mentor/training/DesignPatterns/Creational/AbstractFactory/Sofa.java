@@ -1,4 +1,4 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory;
+package com.mentor.training.designpatterns.creational.abstractfactory;
 
 public interface Sofa
 {

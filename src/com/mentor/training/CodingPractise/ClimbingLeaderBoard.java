@@ -1,4 +1,4 @@
-package com.mentor.training.CodingPractise;
+package com.mentor.training.codingpractise;
 
 
 //https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem

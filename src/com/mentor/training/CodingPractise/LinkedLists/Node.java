@@ -1,4 +1,4 @@
-package com.mentor.training.CodingPractise.LinkedLists;
+package com.mentor.training.codingpractise.LinkedLists;
 
 public class Node {
 

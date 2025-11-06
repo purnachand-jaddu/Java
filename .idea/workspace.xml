@@ -1,31 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="57936815-e6ee-4305-ac3c-2eee995f9606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/CarsProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/IcecreamParlor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/IntesectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/IsPowerOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/LongestNonRepeatingSubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_bluecatcode_junit_junit_4_10_extended_1_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/JavaPrimitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/JavaPrimitives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TooltipFrameWork/ListInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/tooltip/ListInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TooltipFrameWork/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/tooltip/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TooltipFrameWork/TruncatedTootip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/tooltip/TruncatedTootip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/AlmostSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/AlmostSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ApplesAndOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ApplesAndOranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ArrayManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/BiggerIsGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/BiggerIsGreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ClimbingLeaderBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/ClimbingLeaderBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/FormingMagicSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/FormingMagicSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/ReverseUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/LinkedLists/ReverseUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/OrganisingContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/OrganisingContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/QueensAttackII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/QueensAttackII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/SherlockAndValidString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/SherlockAndValidString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/TwoSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/CodingPractise/TwoSetBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/FactoryMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/FactoryMgr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/NonWesternVariantFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/NonWesternVariantFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/WesternVariantFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Factories/WesternVariantFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/NonWesternVariant/NonWesternChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/NonWesternVariant/NonWesternChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/NonWesternVariant/NonWesternSofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/NonWesternVariant/NonWesternSofa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/NonWesternVariant/NonWesternTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/NonWesternVariant/NonWesternTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Sofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Sofa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/WesternVariant/WesternChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/WesternVariant/WesternChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/WesternVariant/WesternSofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/WesternVariant/WesternSofa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/WesternVariant/WesternTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/AbstractFactory/WesternVariant/WesternTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/RoadTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/RoadTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/SeaTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/SeaTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/DesignPatterns/Creational/Factory/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/InteractWithDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/InteractWithDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/ManagerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/ManagerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/PopADialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/PopADialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MVCWithDBInteraction/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/DaemonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MyFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MyFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MyFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/MyFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ShutdownHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ShutdownHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/MultiThreading/ThreadPoolExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/TestsFrameWork/MyTestCase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/questions/LargestRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/LargestRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/questions/NoPolymorphismForFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/NoPolymorphismForFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mentor/training/questions/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mentor/training/questions/Trie.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,12 +246,19 @@
       </list>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-98" />
     <option name="y" value="127" />
     <option name="width" value="1554" />
     <option name="height" value="880" />
   </component>
+  <component name="ProjectId" id="3565hdY4iQU0Lel08KZJNp2umF7" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -304,33 +342,20 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="xml.defaultSchemas" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/purnachand.jaddu/Desktop/learnings/Java"
+  }
+}]]></component>
   <component name="RunManager" selected="Application.LargestRectangle">
     <configuration name="CarsProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mentor.training.questions.CarsProblem" />

@@ -1,7 +1,7 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory;
+package com.mentor.training.designpatterns.creational.abstractfactory;
 
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Factories.AbstractFactory;
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Factories.FactoryMgr;
+import com.mentor.training.designpatterns.creational.abstractfactory.factories.AbstractFactory;
+import com.mentor.training.designpatterns.creational.abstractfactory.factories.FactoryMgr;
 
 public class MainClass
 {

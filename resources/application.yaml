@@ -1,0 +1,36 @@
+aws:
+  region: ${AWS_REGION:us-east-1}
+  dynamodb:
+    endpoint: ${DDB_ENDPOINT:https://dynamodb.us-east-1.amazonaws.com\}
+  s3:
+    endpoint: ${S3_END_POINT:https://s3.us-east-1.amazonaws.com}
+dynamodbTables:
+  tenantConfigurations:
+    name: "TenantConfigurations"
+  subscriptionConfigurations:
+    name: "SubscriptionConfigurations"
+  productConfigurations:
+    name: "ProductConfigurations"
+environment: ${env:local}
+s3:
+  schemaBucket:
+    name: ${S3_BUCKET_NAME:outbound-event-schemas-us-east-1-development}
+
+kafka:
+  consumer:
+    offsetResetFlag: ${KAFKA_OFFSET_RESET_FLAG:earliest}
+    topicRegex: ${KAFKA_TOPIC_REGEX:#{'manual.*'}}
+    groupId: ${KAFKA_CONSUMER_GROUP_ID:manual}
+    concurrentConsumers: ${KAFKA_CONCURRENT_CONSUMERS:1}
+  producer:
+    acks: all
+  security:
+    protocol: ${SECURITY_PROTOCOL:PLAINTEXT}
+    sasl:
+      mechanism: ${SASL_MECHANISM:PLAIN}
+      jaasConfig: ${SASL_JAAS_CONFIG:} # can be empty as well
+      clientHandlerClass: ${SASL_CLIENT_CALLBACK_HANDLER_CLASS:inc.fabric.syndication.outbound.events.common.worker.mocks.MockCallbackHandler}
+  bootstrapAddresses: ${KAFKA_BOOTSTRAP_SERVERS:localhost:9092}
+  metadataFetchDelay: ${KAFKA_MAX_FETCH_DELAY_IN_MS:5000}
+delivery:
+  retryStrategy: ${RETRY_STRATEGY:NO_RETRY}

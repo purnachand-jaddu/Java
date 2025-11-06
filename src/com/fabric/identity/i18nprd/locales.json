@@ -1,0 +1,11 @@
+{
+  "tenantId": {
+    "S": "65305c000cf2e732c4d4ef0a"
+  },
+  "recordType": {
+    "S": "locales"
+  },
+  "data": {
+    "S": "[{\"isDefault\":true,\"createdAt\":\"2023-11-06T15:51:13Z\",\"code\":\"en-US\",\"language\":\"English\",\"country\":\"United States\"},{\"isDefault\":false,\"createdAt\":\"2023-11-06T15:51:13Z\",\"code\":\"en-CA\",\"language\":\"English\",\"country\":\"Canada\"}]"
+  }
+}

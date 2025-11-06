@@ -1,6 +1,6 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory.NonWesternVariant;
+package com.mentor.training.designpatterns.creational.abstractfactory.nonwesternvariant;
 
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Chair;
+import com.mentor.training.designpatterns.creational.abstractfactory.Chair;
 
 public class NonWesternChair implements Chair
 {

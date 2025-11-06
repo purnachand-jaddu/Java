@@ -1,4 +1,4 @@
-package com.mentor.training.CodingPractise.LinkedLists;
+package com.mentor.training.codingpractise.LinkedLists;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory.NonWesternVariant;
+package com.mentor.training.designpatterns.creational.abstractfactory.nonwesternvariant;
 
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Table;
+import com.mentor.training.designpatterns.creational.abstractfactory.Table;
 
 public class NonWesternTable implements Table
 {

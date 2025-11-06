@@ -1,0 +1,35 @@
+{
+  "tenantId": {
+    "S": "65305c000cf2e732c4d4ef0a"
+  },
+  "channelHash": {
+    "S": "5326677882861351512"
+  },
+  "channelId": {
+    "S": "default"
+  },
+  "channelName": {
+    "S": "default"
+  },
+  "createdAt": {
+    "S": "2023-10-03T06:20:25Z"
+  },
+  "createdBy": {
+    "S": "d7fa2a73-ae1f-4d48-b6eb-90d90943e483"
+  },
+  "isActive": {
+    "BOOL": true
+  },
+  "medium": {
+    "S": "web"
+  },
+  "metadata": {
+    "S": "{\"defaultLocale\":{\"code\":\"en-US\",\"language\":\"English\",\"country\":\"United States\"},\"supportedLocales\":[{\"code\":\"en-US\",\"language\":\"English\",\"country\":\"United States\"},{\"code\":\"en-CA\",\"language\":\"English\",\"country\":\"Canada\"}],\"defaultCurrency\":{\"code\":\"USD\",\"symbol\":\"$\",\"name\":\"United States dollar\"},\"supportedCurrencies\":[{\"code\":\"USD\",\"symbol\":\"$\",\"name\":\"United States dollar\"},{\"code\":\"CAD\",\"symbol\":\"$\",\"name\":\"Canadian dollar\"}]}"
+  },
+  "updatedAt": {
+    "S": "2023-10-03T06:20:25Z"
+  },
+  "updatedBy": {
+    "S": "d7fa2a73-ae1f-4d48-b6eb-90d90943e483"
+  }
+}

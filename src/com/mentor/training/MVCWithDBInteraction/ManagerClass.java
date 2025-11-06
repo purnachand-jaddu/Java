@@ -1,4 +1,4 @@
-package com.mentor.training.MVCWithDBInteraction;
+package com.mentor.training.mvcwithdbinteraction;
 
 public class ManagerClass
 {

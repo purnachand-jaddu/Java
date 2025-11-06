@@ -1,4 +1,4 @@
-package com.mentor.training.DesignPatterns.Creational.Factory;
+package com.mentor.training.designpatterns.creational.factory;
 
 public class MainClass
 {

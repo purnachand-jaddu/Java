@@ -1,11 +1,11 @@
-package com.mentor.training.DesignPatterns.Creational.AbstractFactory.Factories;
+package com.mentor.training.designpatterns.creational.abstractfactory.factories;
 
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Chair;
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Sofa;
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.Table;
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.WesternVariant.WesternChair;
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.WesternVariant.WesternSofa;
-import com.mentor.training.DesignPatterns.Creational.AbstractFactory.WesternVariant.WesternTable;
+import com.mentor.training.designpatterns.creational.abstractfactory.Chair;
+import com.mentor.training.designpatterns.creational.abstractfactory.Sofa;
+import com.mentor.training.designpatterns.creational.abstractfactory.Table;
+import com.mentor.training.designpatterns.creational.abstractfactory.westernvariant.WesternChair;
+import com.mentor.training.designpatterns.creational.abstractfactory.westernvariant.WesternSofa;
+import com.mentor.training.designpatterns.creational.abstractfactory.westernvariant.WesternTable;
 
 public class WesternVariantFactory extends AbstractFactory
 {

@@ -1,4 +1,4 @@
-package com.mentor.training.CodingPractise;
+package com.mentor.training.codingpractise;
 
 
 import java.util.*;

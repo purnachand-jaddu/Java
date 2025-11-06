@@ -1,4 +1,4 @@
-package com.mentor.training.MVCWithDBInteraction;
+package com.mentor.training.mvcwithdbinteraction;
 
 import java.sql.*;
 import java.util.Arrays;

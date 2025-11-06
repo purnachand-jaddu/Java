@@ -1,4 +1,4 @@
-package com.mentor.training.MVCWithDBInteraction;
+package com.mentor.training.mvcwithdbinteraction;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
